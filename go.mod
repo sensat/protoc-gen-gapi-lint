@@ -1,4 +1,4 @@
-module github.com/felipeparaujo/protoc-gen-gapi-lint
+module github.com/sensat/protoc-gen-gapi-lint
 
 go 1.20
 
